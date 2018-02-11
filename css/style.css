@@ -6,7 +6,7 @@ body {
 
 .div-bg {
   width: 100%;
-  height: 24vh;
+  height: 28vh;
   position: absolute;
   left: 0;
   right: 0;
@@ -16,7 +16,7 @@ body {
   background-image: url('http://vignette4.wikia.nocookie.net/marvelcinematicuniverse/images/5/5f/Map_of_Europe.png/revision/latest?cb=20131017174845');
   background-repeat: no-repeat;
   margin-bottom: 16vh;
-  margin-left: 4vh;
+  margin-left: 3vh;
   /* background-position: 35vw 2vw; */
 }
 
